@@ -1,0 +1,4 @@
+__pycache__/\n.pytest_cache/\n.venv/\nvenv/\n
+__pycache__/
+*.py[cod]
+.pytest_cache/
